@@ -1,7 +1,7 @@
 # THPS3-MP3-2-MUS
 Batch script to export custom music to THPS3
 
-Download via clicking the green `Code` button, then clicking `Download ZIP`
+Download via teh release tab
 
 
 
